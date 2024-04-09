@@ -1,8 +1,10 @@
 #!/bin/bash
-# Далее ваш код.
+#
+#
+date
 
+name=290124-wdm
 
-
-
+echo "${name}"
 
 echo "Done!"
