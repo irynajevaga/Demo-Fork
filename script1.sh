@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+#
+date
 echo "Текущая дата: $(date)"
 #
 echo "Меня зовут: [Irynajevaga]"
@@ -28,6 +30,8 @@ echo "$date"
 echo "Elmira"
 echo "Группа 290124-wdm"
 
+name=290124-wdm
 
+echo "${name}"
 
 echo "Done!"
