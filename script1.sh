@@ -1,5 +1,6 @@
 #!/bin/bash
-# Далее ваш код.
+date
+echo "My name is Konstantin. Group wdm-290124"
 
 user="Vadym"
 group="290124-wdm"
