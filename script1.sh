@@ -1,5 +1,7 @@
 #!/bin/bash
-# Далее ваш код.
+ current_date=$(date +"%Y-%m-%d")
+echo " Date: $current_date"
+echo "Alenochka : 290124-wdm"
 
 
 
