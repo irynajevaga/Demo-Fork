@@ -1,6 +1,9 @@
 #!/bin/bash
-date
-echo "My name is Konstantin. Group wdm-290124"
+NOW=$(date)
+NAME="Konstantin"
+GROUP="WDM-290124"
+echo "Now is $NOW"
+echo "My name is $NAME. My group is $GROUP"
 
 user="Vadym"
 group="290124-wdm"
