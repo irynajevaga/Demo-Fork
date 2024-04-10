@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
  current_date=$(date +"%Y-%m-%d")
@@ -5,6 +6,16 @@
  echo "Alenochka : 290124-wdm"
 
 #
+#
+NAME="Natali"
+GROUP="290124-wdm"
+
+echo "$NAME,$GROUP,$(date)"
+
+date
+echo "Olga Psiurnyk 290124-wdm"
+
+date
 echo "Текущая дата: $(date)"
 #
 echo "Меня зовут: [Irynajevaga]"
@@ -34,6 +45,8 @@ echo "$date"
 echo "Elmira"
 echo "Группа 290124-wdm"
 
+name=290124-wdm
 
+echo "${name}"
 
 echo "Done!"
