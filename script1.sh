@@ -1,5 +1,10 @@
 
 #!/bin/bash
+
+ current_date=$(date +"%Y-%m-%d")
+ echo " Date: $current_date"
+ echo "Alenochka : 290124-wdm"
+
 #
 #
 NAME="Natali"
@@ -22,6 +27,7 @@ date +"%Y-%m-%d %H:%M:S"
 name="Alina"
 group="290124-wdm"
 echo $name $group
+
 
 NOW=$(date)
 NAME="Konstantin"
